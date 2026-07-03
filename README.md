@@ -21,4 +21,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0607-sales-person](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0607-sales-person) |
 | [1280-students-and-examinations](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1280-students-and-examinations) |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 <!---LeetCode Topics End-->
