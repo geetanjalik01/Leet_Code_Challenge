@@ -15,4 +15,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
+## Database
+|  |
+| ------- |
+| [0607-sales-person](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0607-sales-person) |
 <!---LeetCode Topics End-->
