@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Database
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
+| [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
 ## Sliding Window
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
+## Simulation
+|  |
+| ------- |
+| [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
 <!---LeetCode Topics End-->
