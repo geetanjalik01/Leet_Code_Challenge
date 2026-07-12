@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## String
 |  |
 | ------- |
@@ -51,15 +52,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Simulation
 |  |
 | ------- |
@@ -77,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
