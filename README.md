@@ -104,4 +104,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+## Stack
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
