@@ -113,4 +113,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 <!---LeetCode Topics End-->
