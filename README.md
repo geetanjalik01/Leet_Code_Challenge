@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
+| [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
@@ -65,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
