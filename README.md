@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0050-powx-n) |
+| [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
+| [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Queue
 |  |
