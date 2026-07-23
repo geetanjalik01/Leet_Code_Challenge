@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1667-fix-names-in-a-table](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1667-fix-names-in-a-table) |
+| [1683-invalid-tweets](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1757-recyclable-and-low-fat-products) |
 ## Hash Table
 |  |
