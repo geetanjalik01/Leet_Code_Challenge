@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0326-power-of-three) |
 | [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -110,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Queue
