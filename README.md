@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
+| [0058-length-of-last-word](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
