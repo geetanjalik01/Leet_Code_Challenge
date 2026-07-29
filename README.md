@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0326-power-of-three](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0326-power-of-three) |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2520-count-the-digits-that-divide-a-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## String
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0274-h-index](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Sorting
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 ## Linked List
 |  |
 | ------- |
@@ -171,4 +175,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0274-h-index](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0274-h-index) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
