@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0012-integer-to-roman) |
+| [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0058-length-of-last-word) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
@@ -95,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
