@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0238-product-of-array-except-self) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0135-candy) |
 ## Counting Sort
 |  |
 | ------- |
