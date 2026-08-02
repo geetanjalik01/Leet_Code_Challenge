@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0055-jump-game) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0151-reverse-words-in-a-string) |
@@ -173,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
 ## Design
 |  |
@@ -203,4 +207,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
