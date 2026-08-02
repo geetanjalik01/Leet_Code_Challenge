@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0050-powx-n) |
 | [0172-factorial-trailing-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0058-length-of-last-word) |
