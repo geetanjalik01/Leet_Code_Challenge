@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0209-minimum-size-subarray-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Array
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
+| [0209-minimum-size-subarray-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0238-product-of-array-except-self) |
 | [0274-h-index](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0274-h-index) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
+| [0209-minimum-size-subarray-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Simulation
@@ -178,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0238-product-of-array-except-self) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
 ## Two Pointers
