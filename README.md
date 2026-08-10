@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0392-is-subsequence) |
