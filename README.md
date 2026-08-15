@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0610-triangle-judgement](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0610-triangle-judgement) |
 | [0619-biggest-single-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0619-biggest-single-number) |
 | [0620-not-boring-movies](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0620-not-boring-movies) |
+| [0627-swap-sex-of-employees](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0627-swap-sex-of-employees) |
 | [1045-customers-who-bought-all-products](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1045-customers-who-bought-all-products) |
 | [1070-product-sales-analysis-iii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1075-project-employees-i) |
