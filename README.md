@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0054-spiral-matrix) |
 | [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
 ## Recursion
 |  |
@@ -285,4 +287,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
