@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0036-valid-sudoku](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0045-jump-game-ii) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
@@ -279,4 +281,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
