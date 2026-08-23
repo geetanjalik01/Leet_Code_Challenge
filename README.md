@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0030-substring-with-concatenation-of-all-words](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
+| [0073-set-matrix-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0076-minimum-window-substring) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0205-isomorphic-strings) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0055-jump-game) |
+| [0073-set-matrix-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -291,4 +293,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0073-set-matrix-zeroes) |
 <!---LeetCode Topics End-->
