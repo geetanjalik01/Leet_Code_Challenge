@@ -3,11 +3,7 @@ class Solution:
         anagram_map = defaultdict(list)
 
         for s in strs:
-            count = [0] * 26
-
-            for ch in s:
-                count[ord(ch) - ord('a')] += 1
-
-            anagram_map[tuple(count)].append(s)
+            key = ''.join(sorted(s))
+            anagram_map[key].append(s)
 
         return list(anagram_map.values())
