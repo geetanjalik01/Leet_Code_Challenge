@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0205-isomorphic-strings) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
@@ -163,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
@@ -305,4 +307,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0056-merge-intervals](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0056-merge-intervals) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
