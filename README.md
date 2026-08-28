@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0172-factorial-trailing-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0172-factorial-trailing-zeroes) |
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
+| [0292-nim-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0326-power-of-three) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0415-add-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0415-add-strings) |
@@ -313,4 +314,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0128-longest-consecutive-sequence) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0292-nim-game) |
+## Minimax
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0292-nim-game) |
+## Nim Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0292-nim-game) |
+## Impartial Game
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
