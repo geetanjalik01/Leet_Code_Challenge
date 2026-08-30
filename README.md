@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2451-odd-string-difference](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2451-odd-string-difference) |
 ## String
 |  |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2451-odd-string-difference](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2451-odd-string-difference) |
 ## Sorting
 |  |
@@ -249,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Stack
 |  |
 | ------- |
