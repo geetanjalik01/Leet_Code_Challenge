@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0007-reverse-integer) |
 | [0012-integer-to-roman](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0013-roman-to-integer) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0050-powx-n) |
 | [0326-power-of-three](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0326-power-of-three) |
 ## Divide and Conquer
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0002-add-two-numbers) |
 | [0237-delete-node-in-a-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 ## Greedy
 |  |
