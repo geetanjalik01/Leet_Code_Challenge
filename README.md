@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0128-longest-consecutive-sequence) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0135-candy) |
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0217-contains-duplicate](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0238-product-of-array-except-self) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0088-merge-sorted-array) |
+| [0217-contains-duplicate](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0274-h-index) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
