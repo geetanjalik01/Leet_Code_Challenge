@@ -160,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
@@ -211,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
