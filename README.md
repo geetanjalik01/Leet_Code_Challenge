@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0283-move-zeroes) |
 | [0289-game-of-life](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0289-game-of-life) |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0274-h-index) |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 ## Binary Search
@@ -238,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0053-maximum-subarray) |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -270,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -371,4 +376,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0020-valid-parentheses) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
