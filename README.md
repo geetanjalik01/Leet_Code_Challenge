@@ -200,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0503-next-greater-element-ii) |
 ## Design
 |  |
 | ------- |
@@ -343,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0503-next-greater-element-ii) |
 ## String Matching
 |  |
 | ------- |
