@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0387-first-unique-character-in-a-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 | [2451-odd-string-difference](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2451-odd-string-difference) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0380-insert-delete-getrandom-o1) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
 | [0704-binary-search](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
 ## Design
 |  |
 | ------- |
@@ -339,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
+| [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
 ## String Matching
 |  |
 | ------- |
