@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0050-powx-n](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0326-power-of-three) |
 ## Divide and Conquer
 |  |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0202-happy-number) |
+| [0234-palindrome-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -292,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0155-min-stack](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0155-min-stack) |
+| [0234-palindrome-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0234-palindrome-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -307,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0206-reverse-linked-list) |
+| [0234-palindrome-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0237-delete-node-in-a-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0876-middle-of-the-linked-list) |
 ## Greedy
