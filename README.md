@@ -204,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0503-next-greater-element-ii) |
 | [0704-binary-search](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1480-running-sum-of-1d-array](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/1480-running-sum-of-1d-array) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0739-daily-temperatures) |
 ## Design
 |  |
 | ------- |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/geetanjalik01/Leet_Code_Challenge/tree/master/0739-daily-temperatures) |
 ## String Matching
 |  |
 | ------- |
